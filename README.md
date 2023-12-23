@@ -29,14 +29,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
-        </td>
-        <td>
-            The top 1 Million sites from Amazon(Alexa). Never use this as a <a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">whitelist</a>.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://apility.io" target="_blank">Apility.io</a>
         </td>
         <td>
